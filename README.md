@@ -18,7 +18,9 @@ Delay: 0.25 secs
 
 
 
-<img width="861" alt="Screenshot 2022-03-12 150506" src="https://user-images.githubusercontent.com/66628385/158014197-36935ab5-092b-4c3d-a749-57bc9fa5bdfd.png">               source: google images
+<img width="861" alt="Screenshot 2022-03-12 150506" src="https://user-images.githubusercontent.com/66628385/158014197-36935ab5-092b-4c3d-a749-57bc9fa5bdfd.png">          
+
+source: google images
 
 The diagram here shows the workflow carried out to predict hand gestures using the sensors. Here, EMG was not used in prediction as data showed minor change which was not enough for ML based prediction. The entire recognition was done using flex sensors.
 
