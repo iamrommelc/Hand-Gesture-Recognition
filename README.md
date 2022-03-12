@@ -26,5 +26,5 @@ The diagram here shows the workflow carried out to predict hand gestures using t
 
 <img width="611" alt="Screenshot 2022-03-12 155326" src="https://user-images.githubusercontent.com/66628385/158014266-b0505a92-d5dc-48cb-b151-1e9e64a9d7b9.png">
 
-The above diagram shows the performance of different algorithms. The best was noted for Adversarial Learning (AL).
+The above diagram shows the performance of different algorithms. The best was noted for Adversarial Learning (AL) and Random Forest(RF). For 4 standard gestures, the best performing model was Adversarial Learning(AL).
 
