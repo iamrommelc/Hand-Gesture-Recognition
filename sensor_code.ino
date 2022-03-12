@@ -1,8 +1,8 @@
 int flexSensorPin0 = A0;          //analog pin 0 
-int flexSensorPin2 = A1;          //analog pin 1
+int flexSensorPin1 = A1;          //analog pin 1
 int flexSensorPin2 = A2;          //analog pin 2
-int flexSensorPin2 = A3;          //analog pin 3
-int flexSensorPin2 = A4;          //analog pin 4
+int flexSensorPin3 = A3;          //analog pin 3
+int flexSensorPin4 = A4;          //analog pin 4
 void setup(){
   Serial.begin(9600);
 }
